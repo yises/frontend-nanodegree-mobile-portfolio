@@ -1,7 +1,7 @@
 # Performance of main.js
 
 Reduced from
-![Main.js OLD](js/performance_main_new_minified.PNG)
+![Main.js OLD](js/performance_main_old.PNG)
 
 TO
 ![Main.js NEW](js/performance_main_new_minified.PNG)
